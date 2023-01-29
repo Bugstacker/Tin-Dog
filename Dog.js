@@ -1,5 +1,4 @@
 // Create the Dog class here
-import dogs from './data.js'
 
 
 class Dog {
